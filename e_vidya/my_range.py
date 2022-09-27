@@ -1,5 +1,5 @@
 def main():
-    for i in my_range(2,4,5,6):
+    for i in my_range(2,4,1):
         print(i,end=" ")
 
 def my_range(*args):
